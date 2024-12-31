@@ -9,7 +9,7 @@ A Java-based Student Management System designed to streamline the administrative
 * **Search Functionality**: Quickly find student records and course details.
 * **User-Friendly Interface**: Intuitive UI for seamless navigation.
 
-## Technologies Used
+## programing language Used
 * Java
   
 * MySQL ( database to store the student information)
